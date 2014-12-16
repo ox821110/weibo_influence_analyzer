@@ -1,0 +1,5 @@
+applications:
+- name: isoftstoneweibo
+  memory: 512M
+  host: isoftstoneweibo
+  domain: mybluemix.net
